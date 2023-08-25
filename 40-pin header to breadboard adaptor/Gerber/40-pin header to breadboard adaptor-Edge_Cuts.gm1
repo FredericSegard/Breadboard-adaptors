@@ -1,0 +1,23 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.7*
+G04 #@! TF.CreationDate,2023-08-24T22:47:44-04:00*
+G04 #@! TF.ProjectId,40-pin header to breadboard adaptor,34302d70-696e-4206-9865-616465722074,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.7) date 2023-08-24 22:47:44*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,Profile*
+%ADD10C,0.100000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X106680000Y-68199000D02*
+X123190000Y-68199000D01*
+X123190000Y-120269000D01*
+X106680000Y-120269000D01*
+X106680000Y-68199000D01*
+M02*
